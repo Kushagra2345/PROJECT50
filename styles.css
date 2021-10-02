@@ -1,0 +1,98 @@
+.menu {
+  /* add correct code to place the menu correctly.*/
+
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body {
+  background-color: whitesmoke;
+}
+.grid {
+  /* add correct code to place the grid elements 
+  one beside the other equally.   */
+
+  display: flex;
+  justify-content: space-evenly;
+
+  gap: 100px;
+  row-gap: 150px;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  text-align: left;
+ 
+  border: solid;
+  border-color:royalblue;
+
+  background-color: paleturquoise;
+
+  
+
+}
+
+
+
+.grid img {
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.origami {
+  border-radius: 20px;
+  background-color: white;
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+}
+
+.languages1{
+  border: solid;
+  border-color:salmon;
+  background-color:lightyellow;
+}
+
+.languages2{
+  border: solid;
+  border-color:turquoise;
+  background-color:limegreen
+}
+
+.languages3{
+  border: solid;
+  border-color:yellow;
+  background-color:gold
+}
+
+.languages4{
+  border: solid;
+  border-color:deeppink;
+  background-color:skyblue
+}
+
+.languages5{
+  border: solid;
+  border-color:darkblue;
+  background-color:tomato
+}
+
+.languages6{
+  border: solid;
+  border-color:chocolate;
+  background-color: violet;
+}
+
+.languages7{
+  display: flex;
+  border: solid;
+  border-color:orchid;
+  background-color:lime
+  
+}
+
+.languages8{
+  border: solid;
+  border-color:darkgreen;
+  background-color:lightcoral
+}
